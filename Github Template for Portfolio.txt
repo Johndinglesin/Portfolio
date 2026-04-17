@@ -1,0 +1,85 @@
+﻿<div class="card" data-type="crossplay" data-ip="play.example.com" data-port="19132">
+                <span class="badge badge-cross">Crossplay</span>
+                <h3>[SERVER NAME]</h3>
+                <p>[DESCRIPTION]</p>
+                <div class="ip-box">
+                    <span class="copy-text">play.example.com</span>
+                    <button class="copy-btn">Copy IP</button>
+                </div>
+                <div class="ip-box">
+                    <span class="copy-text">19132 (Bedrock Only)</span>
+                    <button class="copy-btn">Copy Port</button>
+                </div>
+                <p class="status"><span class="status-dot"></span> Players: <span class="player-count">Checking...</span></p>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="card" data-type="java" data-ip="play.example.com">
+                <span class="badge badge-java">Java Edition</span>
+                <h3>[SERVER NAME]</h3>
+                <p>[DESCRIPTION]</p>
+                <div class="ip-box">
+                    <span class="copy-text">play.example.com</span>
+                    <button class="copy-btn">Copy</button>
+                </div>
+                <p class="status"><span class="status-dot"></span> Players: <span class="player-count">Checking...</span></p>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="card" data-type="bedrock" data-ip="play.example.com" data-port="19132">
+                <span class="badge badge-bedrock">Bedrock Edition</span>
+                <h3>[SERVER NAME]</h3>
+                <p>[DESCRIPTION]</p>
+                <div class="ip-box">
+                    <span class="copy-text">play.example.com</span>
+                    <button class="copy-btn">Copy IP</button>
+                </div>
+                <div class="ip-box">
+                    <span class="copy-text">19132</span>
+                    <button class="copy-btn">Copy Port</button>
+                </div>
+                <p class="status"><span class="status-dot"></span> Players: <span class="player-count">Checking...</span></p>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card">
+                <h3>[PROJECT NAME]</h3>
+                <p>[DESCRIBE YOUR REPO HERE]</p>
+                <a href="[LINK]" target="_blank" style="color: var(--accent);">Visit Repo →</a>
+            </div>
